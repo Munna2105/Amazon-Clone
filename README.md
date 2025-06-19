@@ -53,9 +53,9 @@ A basic static replica of the Amazon India homepage built using only HTML and CS
   
 •	Clone the repo:
 
-git clone https://github.com/yourusername/amazon-clone-html-css.git
+  git clone https://github.com/yourusername/amazon-clone-html-css.git
 
-Open index.html in your browser
+  Open index.html in your browser
 
 •	That’s it — no dependencies needed!
 
