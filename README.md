@@ -4,7 +4,7 @@ A basic static replica of the Amazon India homepage built using only HTML and CS
 
 📸 Screenshot
 
- 
+![Amazon Clone](https://github.com/user-attachments/assets/cb550e25-913c-4d15-b79b-b9f068239089)
 
 📁 Features
 
